@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 setup(
-    name='cdhetero',
+    name='Hetero',
     version='0.1',
     packages=find_packages(include=['Hetero*']),
     install_requires=['py3Dmol','absl-py','biopython',
